@@ -3,9 +3,9 @@
 ### Goal of the tool
 To calculate the cost af the materials in the walls
 ### Model Use
-Use Case - Cost Estiation
-Gather - Quantify
-Analyse - Forecast
+* Use Case - Cost Estiation
+* Gather - Quantify
+* Analyse - Forecast
 
 ## 3B - Propose a tool
 ![image](https://github.com/AnjaHolmquist/Assignment-A3/blob/main/BPMN%202.0.png)

@@ -7,7 +7,7 @@ To calculate the cost af the materials in the walls
 
 
 ## 3B - Propose a tool
-![image](https://github.com/AnjaHolmquist/Group11-Assignments.-/blob/main/BPMN.png)
+![image](https://github.com/AnjaHolmquist/Assignment-A3/blob/main/BPMN%202.0.png)
 ### Description of the process of our tool
 - First wee need a model with all informations about the walls materials and dimentions
 - Then wee

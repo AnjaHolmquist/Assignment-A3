@@ -19,16 +19,20 @@ To calculate the cost af the materials in the walls
 - if this is fine then we can handle it over to the Clint.
 
 ## 3C - Information exchange
-### Beslut hvilke elementer vi ksal bruge og vælg detaljegrad (LOD400?)
-### 
+### Information Exchange
+in the excel file you can see the LOD levels we need to make our project.
+
+### IFC 
 - We need to know the dimentions and materials of all the walls
 Openings(Windows/doors) 
 - We need to know the dimentions og the openings in the walls
 - We have to tjek that the outputs is okay acording to the BR18, A1 and A2 documents for the project and the building specifications documents.
 
 ## 3D - Value what is the potential improvement offered by this tool
-### This will make the contractors to know exatly how much work they need to put a price on. and then can the Client chuse hwo has to make the work.
-### This will make les waste of building materials and a more presice prise for the work. 
+### Describe the business value.
+This will make the contractors to know exatly how much work they need to put a price on. and then can the Client chuse hwo has to make the work.
+### Describe the Societal value.
+This will make les waste of building materials and a more presice prise for the work. 
 
 ## 3E - Delivery
-### We will try to make a HTML where you can klik on a level and then you will see the results of the defrint wall types, materials and diamentions så the contractor kan calculate the exate price for the prodution.
+We will try to make a HTML where you can klik on a level and then you will see the results of the defrint wall types, materials and diamentions så the contractor kan calculate the exate price for the prodution.
